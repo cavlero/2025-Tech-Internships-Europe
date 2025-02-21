@@ -1,0 +1,15 @@
+# Automated bash script to commit
+commit.sh
+
+# Script logging
+logging.txt
+
+# Python files
+collect.py
+update_readme.py
+config.py
+
+# Venv
+/venv
+requirements.txt
+/__pycache__
