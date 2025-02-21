@@ -2,7 +2,7 @@
 A curated list of tech internships across Europe for 2025. This resource is designed to help students find relevant opportunities in software engineering, data science, cybersecurity, and other tech fields.
 <!-- START TABLE -->
 
-| Company | Job Title | Location | Job Link | Date Posted |
+| Company | Title | Location | Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | **[Adifo](https://www.adifo.com/en)** | Internship: Developing a retrieval-augmented virtual assistant | Maldegem, Belgium | [Apply](https://jobs.adifo.com/careers/internship-developing-a-retrieval-augmented-virtual-assistant) | Feb 21 |
 | **[ABB](http://www.global.abb/group/en)** | Internship in Control Application Development for Medium Voltage Drives (80-100%) | Turgi, Switzerland | [Apply](https://careers.abb/global/en/job/ABB1GLOBAL95192614EXTERNALENGLOBAL/Internship-in-Control-Application-Development-for-Medium-Voltage-Drives-80-100?utm_source=indeed&utm_medium=phenom-feeds) | Feb 20 |
