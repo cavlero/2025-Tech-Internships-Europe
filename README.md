@@ -4,6 +4,7 @@ A curated list of tech internships across Europe for 2025. This resource is desi
 
 | Company | Title | Location | Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[SABIC - Saudi Basic Industries Corp.](https://www.sabic.com/en)** | Internship - T&I Scientific Computing | Bergen op Zoom, Netherlands | [Apply](https://jobs.sabic.com/job/Bergen-Op-Zoom-Internship-T&I-Scientific-Computing/855880123/?feedId=312923&utm_source=Indeed&utm_campaign=SABIC-Indeed) | Feb 23 |
 | **[Vodafone](https://careers.vodafone.com/)** | 2024/25 Vodafone Portugal Youth Internship Data Analytics | Lisboa, Portugal | [Apply](https://opportunities.vodafone.com/job/Lisbon-202425-Vodafone-Portugal-Youth-Internship-Data-Analytics/1055163201/?feedId=301801&utm_source=Indeed&utm_campaign=Vodafone_Indeed) | Feb 22 |
 | **[Adifo](https://www.adifo.com/en)** | Internship: Developing a retrieval-augmented virtual assistant | Maldegem, Belgium | [Apply](https://jobs.adifo.com/careers/internship-developing-a-retrieval-augmented-virtual-assistant) | Feb 21 |
 | **[Adifo](https://www.adifo.com/en)** | Internship: Finetuning a Large Language Model | Maldegem, Belgium | [Apply](https://jobs.adifo.com/careers/internship-finetuning-a-large-language-model) | Feb 21 |
@@ -135,6 +136,7 @@ A curated list of tech internships across Europe for 2025. This resource is desi
 | **[Microsoft](http://www.microsoft.com/)** | AI Engineering: Internship Opportunities | Tampere, Finland | [Apply](https://careers.microsoft.com/us/en/job/1799341/AI-Engineering-Internship-Opportunities?jobsource=indeed&utm_source=Job%20Board&utm_campaign=indeed-feed) | Jan 09 |
 | **[Honeywell](https://www.honeywell.com)** | Technical Support Internship (Fire) with German | București, Romania | [Apply](https://careers.honeywell.com/us/en/job/req465864) | Dec 31 |
 | **[EmbeDL](https://se.indeed.com/cmp/Embedl)** | Summer intern (IT and infrastructure) | Göteborg, Sweden | [Apply](https://career.embedl.ai/jobs/5362409-summer-intern-it-and-infrastructure) | Dec 18 |
+| **[Lombard Odier & Cie](https://www.lombardodier.com/home.html)** | Internship - Process Automation Specialist | LU, Luxembourg | [Apply](https://lombardodier.wd3.myworkdayjobs.com/en-US/Lombard_Odier_Careers/job/Luxembourg/RPA-Configuration---Stagiaire_R0005512) | Dec 09 |
 | **[ABB](http://www.global.abb/group/en)** | Working Student/Internship Full-Stack Software Developer (m/f/d) - Electrification, ASKI Energy | Zell am Moos, Austria | [Apply](https://careers.abb/global/en/job/ABB1GLOBAL93289351EXTERNALENGLOBAL/Working-Student-Internship-Full-Stack-Software-Developer-m-f-d-Electrification-ASKI-Energy?utm_source=indeed&utm_medium=phenom-feeds) | Nov 28 |
 | **[NIRA Dynamics AB](https://www.niradynamics.se)** | NIRA Engineering Summer Internship 2025 | Linköping, Sweden | [Apply](https://niradynamics.se/careers-and-culture/?jobid=284015) | Nov 21 |
 | **[NIRA Dynamics AB](https://www.niradynamics.se)** | NIRA Engineering Summer Internship 2025 | Linköping, Sweden | [Apply](https://niradynamics.se/careers-and-culture/?jobid=284015) | Nov 21 |
