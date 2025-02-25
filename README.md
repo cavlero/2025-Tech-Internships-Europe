@@ -4,9 +4,16 @@ A curated list of tech internships across Europe for 2025. This resource is desi
 
 | Company | Title | Location | Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[Husky Injection Molding](http://www.husky.co/EN-US/)** | Internship in Web development for 6 months (m/f/d) | LU, Luxembourg | [Apply](https://www.husky.co/en/careers/portal/details/?id=19787&title=Internship+in+Web+development+for+6+months+(m/f/d)) | Feb 25 |
+| **[Infineon Technologies](http://www.infineon.com)** | Internship/Working student: Digital Functional Verification (f/m/div) | Dresden, Germany | [Apply](https://jobs.infineon.com/careers/job/563808958491807) | Feb 25 |
+| **[STMicroelectronics](https://www.st.com/)** | Internship - MEMS Sensor Drivers in Rust Language | Cornaredo, Italy | [Apply](https://stmicroelectronics.eightfold.ai/careers/job/563637159911581) | Feb 25 |
 | **[8x8](http://www.8x8.com)** | Software Engineering Internship | Cluj-Napoca, Romania | [Apply](https://8x8inc.wd5.myworkdayjobs.com/en-US/8x8_External_Careers/job/Romania-Cluj-Office/Software-Engineering-Internship_R1504) | Feb 24 |
+| **[Accenture](https://www.accenture.com)** | Technology Summer Internship | Lisboa, Portugal | [Apply](https://accenture.com/pt-pt/careers/jobdetails?id=R00259271_pt) | Feb 24 |
 | **[ALSTOM](https://www.alstom.com/)** | Data Science Trainee (Internship at Alstom Talent Program) | Barcelona, Spain | [Apply](https://jobsearch.alstom.com/job/Barcelona-Data-Science-Trainee-%28Internship-at-Alstom-Talent-Program%29-B/1164085601/) | Feb 24 |
+| **[Boeing](https://www.boeing.com)** | Flight Deck & Tool Support – working student / Werkstudent | HE, Germany | [Apply](https://jobs.boeing.com/job/-/-/185/77868978272) | Feb 24 |
+| **[Boeing](https://www.boeing.com)** | Student in Future Flight Operations Research (Mandatory Internship/Bachelor/Master Thesis) m/f/d | HE, Germany | [Apply](https://jobs.boeing.com/job/-/-/185/77881005456) | Feb 24 |
 | **[Flix SE](https://flix.careers/)** | Data Engineer Intern (m/f/d) | München, Germany | [Apply](https://flix.careers/job/7866567002) | Feb 24 |
+| **[ING](http://www.ing.com/en.htm)** | Internship Customer Journey Expert | Milano, Italy | [Apply](https://careers.ing.com/job/-/-/2618/22353137600) | Feb 24 |
 | **[TNO](https://www.tno.nl/en/careers)** | Internship - data retrieval for polymers using AI | Eindhoven, Netherlands | [Apply](https://www.tno.nl/en/careers/vacancies/2025/02/internship-data-retrieval-polymers-using/) | Feb 24 |
 | **[TUI Group](https://www.tuigroup.com/en-en)** | Working Student / Internship (m/f/d) - Sustainability Technology | Berlin, Germany | [Apply](https://careers.tuigroup.com/en/job/hannover/working-student-internship-m-f-d-sustainability-technology/2937/22362766400) | Feb 24 |
 | **[SABIC - Saudi Basic Industries Corp.](https://www.sabic.com/en)** | Internship - T&I Scientific Computing | Bergen op Zoom, Netherlands | [Apply](https://jobs.sabic.com/job/Bergen-Op-Zoom-Internship-T&I-Scientific-Computing/855880123/?feedId=312923&utm_source=Indeed&utm_campaign=SABIC-Indeed) | Feb 23 |
@@ -147,6 +154,7 @@ A curated list of tech internships across Europe for 2025. This resource is desi
 | **[NIRA Dynamics AB](https://www.niradynamics.se)** | NIRA Engineering Summer Internship 2025 | Linköping, Sweden | [Apply](https://niradynamics.se/careers-and-culture/?jobid=284015) | Nov 21 |
 | **[NIRA Dynamics AB](https://www.niradynamics.se)** | NIRA Engineering Summer Internship 2025 | Linköping, Sweden | [Apply](https://niradynamics.se/careers-and-culture/?jobid=284015) | Nov 21 |
 | **[Dell Technologies](https://jobs.dell.com/)** | Data Engineering Internship | București, Romania | [Apply](https://jobs.dell.com/en/job/bucharest/data-engineering-internship/375/73217737744) | Nov 19 |
+| **[Paul Wurth](https://www.paulwurth.com)** | Internship - Software Engineer (m/f/d) | LU, Luxembourg | [Apply](https://careers.paulwurth.com/job-offers/?ref=67335efc618b2a90e71e05e7) | Nov 12 |
 | **[CPI Computer Peripherals International](https://gr.indeed.com/cmp/Cpi-Computer-Peripherals-International)** | IT Support Field Engineers Internship | Αθήνα, Greece | [Apply](https://www.cpi.gr/content/714/it-support-field-engineers-internship-/) | Oct 21 |
 
 <!-- END TABLE -->
