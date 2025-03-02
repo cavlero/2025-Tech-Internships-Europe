@@ -4,7 +4,10 @@ A curated list of tech internships across Europe for 2025. This resource is desi
 
 | Company | Title | Location | Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[Oracle](https://oracle.com/careers)** | Internship - Network Reliability Developer Intern (12 Months, Start date 23rd June 2025) | Reading, United Kingdom | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/requisitions/preview/280673) | Mar 02 |
+| **[Goodyear](https://jobs.goodyear.com)** | Internship in Data Science - Image Processing | Colmar-Berg, Luxembourg | [Apply](https://jobs.goodyear.com/job/Colmar-Berg-Internship-in-Data-Science-Image-Processing-L/1218912400/?feedId=367200&utm_source=Indeed&utm_campaign=Goodyear_Indeed) | Mar 01 |
 | **[CrowdStrike](http://www.crowdstrike.com/careers)** | Cloud AI Engineering Intern (Remote, ROU) | RO, Romania | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Romania---Remote/Cloud-AI-Engineering-Intern--Remote--ROU-_R22288) | Feb 28 |
+| **[DOW](https://www.dow.com)** | Campus Internship 2024 – 2025 - Technical Expertise & Support Software Subject Matter Expert | Schkopau, Germany | [Apply](https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Schkopau-DEU/Campus-Internship-2024---2025---Technical-Expertise---Support-Software-Subject-Matter-Expert_R2058802) | Feb 28 |
 | **[Enoda](https://uk.indeed.com/cmp/Enoda)** | Internship- STEM | Edinburgh, United Kingdom | [Apply](https://enodatech.pinpointhq.com/postings/ce5d81d4-d4a9-478c-8d2f-7e48ddaccdd7?utm_medium=job_board&utm_source=indeed) | Feb 28 |
 | **[Enoda](https://uk.indeed.com/cmp/Enoda)** | Internship- STEM | Edinburgh, United Kingdom | [Apply](https://enodatech.pinpointhq.com/postings/ce5d81d4-d4a9-478c-8d2f-7e48ddaccdd7?utm_medium=job_board&utm_source=indeed) | Feb 28 |
 | **[IAV GmbH](http://www.iav.com/karriere)** | Internship/working student – Unmanned Systems UxS-UGV/UAV/USV | Gifhorn, Germany | [Apply](https://career.iav.com/en/careers/jobs/internship-working-student-unmanned-systems-uxs-ugv-uav-usv) | Feb 28 |
