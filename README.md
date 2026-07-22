@@ -4,6 +4,8 @@ A curated list of tech internships across Europe for 2025. This resource is desi
 
 | Company | Title | Location | Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[TNO](https://www.tno.nl/en/careers)** | Internship - Agentic Decision Support System for 6G RAN | Den Haag, Netherlands | [Apply](https://www.tno.nl/en/careers/vacancies/2026/07/internship-agentic-decision-support/) | Jul 22 |
+| **[TNO](https://www.tno.nl/en/careers)** | Internship - AI-based management for sustainability in 6G Cell-Free Networks | Den Haag, Netherlands | [Apply](https://www.tno.nl/en/careers/vacancies/2026/07/internship-ai-based-management/) | Jul 22 |
 | **[Cadence Design Systems](https://www.cadence.com/en_US/home.html)** | Intern Agentic AI Workflow Development & Validation for Digital Design (f/m/d) | München, Germany | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/FELDKIRCHEN-Munich/Intern-Agentic-AI-Workflow-Development---Validation-for-Digital-Design--f-m-d-_R55597) | Jul 21 |
 | **[Ciena](https://www.ciena.com/)** | Software Engineering Intern (3-12 Months) | Edinburgh, United Kingdom | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332) | Jul 21 |
 | **[STMicroelectronics](https://www.st.com/)** | Internship – Full Stack Web Application Developer – ST eDesignSuite | Catania, Italy | [Apply](https://stmicroelectronics.eightfold.ai/careers/job/563637173033501) | Jul 21 |
