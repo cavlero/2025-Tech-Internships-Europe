@@ -4,6 +4,7 @@ A curated list of tech internships across Europe for 2025. This resource is desi
 
 | Company | Title | Location | Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[Avanade](http://www.avanade.com)** | Professional Internship in CRM | Lisboa, Portugal | [Apply](https://www.avanade.com/en/career/job-details/R00341852) | Jul 29 |
 | **[again](https://dk.indeed.com/cmp/Again)** | Computational Biology Intern/Thesis student | København, Denmark | [Apply](https://again.teamtailor.com/jobs/8137684-computational-biology-intern-thesis-student) | Jul 28 |
 | **[Allianz](https://www.allianz.com/en.html)** | Working Student Data Engineering (m/f/d) | München, Germany | [Apply](https://careers.allianz.com/global/en/job/103638) | Jul 28 |
 | **[BMW Group](https://www.bmwgroup.com)** | Intern Battery Software Development Full Stack (f/m/x) | München, Germany | [Apply](https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.189688.html) | Jul 28 |
@@ -23,6 +24,7 @@ A curated list of tech internships across Europe for 2025. This resource is desi
 | **[BMW Group](https://www.bmwgroup.com)** | Intern AI and Machine Learning at Rolls-Royce Motor Cars (f/m/x) | München, Germany | [Apply](https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.189495.html) | Jul 24 |
 | **[Hitachi Energy](http://www.hitachienergy.com)** | Internship – Machine Learning / Data Science | Kraków, Poland | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Krakow-Lesser-Poland-Poland/Internship---Machine-Learning---Data-Science_R0139066-1) | Jul 24 |
 | **[Hitachi Rail](https://www.hitachirail.com/)** | Internship – Machine Learning / Data Science | Kraków, Poland | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Krakow-Lesser-Poland-Poland/Internship---Machine-Learning---Data-Science_R0139066-1) | Jul 24 |
+| **[Synopsys](https://www.synopsys.com/)** | Intern (Technical-Engineering) | Eindhoven, Netherlands | [Apply](https://synopsys.avature.net/careers/JobDetail/18279?source=Indeed) | Jul 24 |
 | **[UBS](https://www.ubs.com/global/en.html)** | 2026 Off-cycle Internship – Governmental Affairs – Zurich | Zürich, Switzerland | [Apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=349179&codes=IINDD) | Jul 24 |
 | **[Ascentic](https://ie.indeed.com/cmp/Ascentic)** | Intern - AI & ML | LK, Ireland | [Apply](https://career.ascentic.se/jobs/8112121-intern-ai-ml) | Jul 23 |
 | **[Covestro](http://www.covestro.com)** | Internship in IT – SAP Project & Service Management (m/f/d) - with salary information | Leverkusen, Germany | [Apply](https://covestro.wd3.myworkdayjobs.com/en-US/cov_external/job/Leverkusen/Praktikant-in--m-w-d--im-Bereich-SAP-Project---Service-Management---IT---mit-Gehaltsangabe_JR-2026-01332) | Jul 23 |
