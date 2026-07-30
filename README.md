@@ -4,6 +4,9 @@ A curated list of tech internships across Europe for 2025. This resource is desi
 
 | Company | Title | Location | Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[Ferrovial](http://www.ferrovial.com)** | HR Innovation Internship | Madrid, Spain | [Apply](https://ferrovial.wd3.myworkdayjobs.com/en-US/Ferrovial_Career_Site/job/Madrid/HR-Innovation-Internship_JR17805) | Jul 30 |
+| **[UBS](https://www.ubs.com/global/en.html)** | Software Engineer Intern in Digital Operations | Kraków, Poland | [Apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=348973&codes=IINDD) | Jul 30 |
+| **[Allianz](https://www.allianz.com/en.html)** | Customer Frontend & Reporting Intern/Working Student - Allianz Cyber Defense Center (ACDC) (m/f/d) | München, Germany | [Apply](https://careers.allianz.com/global/en/job/103754) | Jul 29 |
 | **[Avanade](http://www.avanade.com)** | Professional Internship in CRM | Lisboa, Portugal | [Apply](https://www.avanade.com/en/career/job-details/R00341852) | Jul 29 |
 | **[again](https://dk.indeed.com/cmp/Again)** | Computational Biology Intern/Thesis student | København, Denmark | [Apply](https://again.teamtailor.com/jobs/8137684-computational-biology-intern-thesis-student) | Jul 28 |
 | **[Allianz](https://www.allianz.com/en.html)** | Working Student Data Engineering (m/f/d) | München, Germany | [Apply](https://careers.allianz.com/global/en/job/103638) | Jul 28 |
