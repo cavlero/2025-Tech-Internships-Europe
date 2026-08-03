@@ -4,6 +4,9 @@ A curated list of tech internships across Europe for 2025. This resource is desi
 
 | Company | Title | Location | Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[Ericsson](http://www.ericsson.com/careers)** | Software Engineer Internship | Kraków, Poland | [Apply](https://jobs.ericsson.com/careers/job/563121777016082?domain=ericsson.com) | Aug 03 |
+| **[Ericsson](http://www.ericsson.com/careers)** | Software Engineer Internship | Łódź, Poland | [Apply](https://jobs.ericsson.com/careers/job/563121777016082?domain=ericsson.com) | Aug 03 |
+| **[Hitachi Rail](https://www.hitachirail.com/)** | Internship in Foundation Models and Optimization for Power Grids 80 - 100% (f/m/d) | Baden, Switzerland | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Baden-Daettwil-Aargau-Switzerland/Internship-in-Foundation-Models-and-Optimization-for-Power-Grids-80---100---f-m-d-_R0138451) | Aug 03 |
 | **[Coreso](https://be.indeed.com/cmp/Coreso)** | Internship – Data Analytics | Brussels, Belgium | [Apply](https://coreso.recruitee.com/o/internship-data-analytics-1?source=Indeed) | Jul 31 |
 | **[Erste Group Bank](https://www.erstegroup.com)** | Treasury Trading Intern (all genders) | Wien, Austria | [Apply](https://www.erstegroup.com/de/karriere/stellenangebote/job-detail/33827) | Jul 31 |
 | **[GSMA](https://www.gsma.com)** | Research Intern – AI and 6G Systems | London, United Kingdom | [Apply](https://gsma.wd3.myworkdayjobs.com/en-US/External_Careers/job/London/Research-Intern---AI-and-6G-Systems_R-03252) | Jul 31 |
