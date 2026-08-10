@@ -4,6 +4,7 @@ A curated list of tech internships across Europe for 2025. This resource is desi
 
 | Company | Title | Location | Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[ASML](http://www.asml.com/en/careers)** | Business Administration - Project Management internship: quality process improvement | Veldhoven, Netherlands | [Apply](https://www.asml.com/en/careers/find-your-job/business-administration--project-management-internship-quality-process-improvement-j00340832) | Aug 10 |
 | **[Accenture](https://www.accenture.com)** | Software Engineer (C++) Internship Program (She/He/They) | Wrocław, Poland | [Apply](https://accenture.com/pl-en/careers/jobdetails?id=R00349414_en) | Aug 07 |
 | **[Hitachi Energy](http://www.hitachienergy.com)** | Internship Application Development 80 - 100% (f/m/d) | Molinazzo di Monteggio, Switzerland | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Molinazzo-di-Monteggio-Ticino-Switzerland/Internship-Application-Development-80---100---f-m-d-_R0136601) | Aug 07 |
 | **[Hitachi Rail](https://www.hitachirail.com/)** | Internship Application Development 80 - 100% (f/m/d) | Molinazzo di Monteggio, Switzerland | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Molinazzo-di-Monteggio-Ticino-Switzerland/Internship-Application-Development-80---100---f-m-d-_R0136601) | Aug 07 |
